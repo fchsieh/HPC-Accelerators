@@ -1,6 +1,6 @@
 # Heat dissipation stencil accelerator
 
-## Result (Ivory)
+## Result
 
 ![alt text](image-1.png)
 
@@ -11,4 +11,4 @@
 
 1. Thread pool implementation
 2. AVX instructions
-3. Cache oblivious (reduced 30% of cache misses) computation
+3. Cache aware optimization (reduced 30% of cache misses)
