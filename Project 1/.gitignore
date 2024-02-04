@@ -1,5 +1,4 @@
 *.dat
-*.png
 obj/
 
 .vscode/
